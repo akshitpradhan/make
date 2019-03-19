@@ -1,0 +1,14 @@
+recovery_token=CHrRXbh5bw2ezqiBamV0oChjs3Y=
+static_private_key=GNu2/IEnOGlCd7eOp6TG8LQ2HJyvZj8PrVCc7akp0kM=
+static_public_key=wnrxQOeBG4fZRNFbpc4GcShdgIVP+jv/SzUKKMXO1DI=
+identity=Brsa2FIkGGwVE/aMq/NYDZl+BymZupqb0ss6zjZxN1g=
+registration_id=/pkn+A==
+signed_prekey_id=AAAA
+signed_prekey_value=ZN0liEtDpiqgO0zHXb9N7iK+v2H6GoIpCnvHJEbh5CA=
+signed_prekey_signature=Yu+9SQdXAg8j7GjjXRv5hjUI5RY5/Hyce3kpNI9MGZTH52IX/rXk9RvMn9ijXyqt1sTPpQDrijBE1ypwmHX7BQ==
+manufacturer=Lenovo
+device=B8000
+model=Lenovo B8000-F
+buildversion=LYZ28E
+osversion=5.1
+server_static_public_key=2qWGl+8Lho+hEKbcHDPs7pWFYmycPnUE6AyAE+1ZsjI=

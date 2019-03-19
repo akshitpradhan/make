@@ -1,0 +1,13 @@
+recovery_token=HS0zGoyKdyhyBHMOmwVij92Jibc=
+static_private_key=UGMb0MneFe+21onYRaQfl5rn9LtGOojBiZQC4cMxA0c=
+static_public_key=pb0MVztcQaOUqrs/sSWjXzz8NleMbMXCsSkNTJ0zIXs=
+identity=2Vd3813mASYZShuGpiTg5h6EjH/dY8UynbI01rTIywQ=
+registration_id=9x72uQ==
+signed_prekey_id=AAAA
+signed_prekey_value=+Y+d/bIQO1863gCBdduOwQIbFBIVDL2DKGI8dPxde24=
+signed_prekey_signature=bMrOwrS9jDEFZV52yvVDf8HDZr7gIHqlIpcS3PSXTX7a6IO730yS8JbsVolg7HWw6F2K4LNrK0fRL1a39sUcCw==
+manufacturer=Xiaomi
+device=pisces
+model=MI 3
+buildversion=LRX21L
+osversion=5.0
